@@ -10,6 +10,30 @@
 
 ### usecases
 
+## Architeture Decision Records
+
+### Explain
+
+#### Explain
+
+| Title | Description | 
+|-------|-------------|
+| Title | These documents have names that are short noun phrases. For example, "ADR 1: Deployment on Ruby on Rails 3.0.10" or "ADR 9: LDAP for Multitenant Integration" |
+| Context | This section describes the forces at play, including technological, political, social, and project local. These forces are probably in tension, and should be called out as such. The language in this section is value-neutral. It is simply describing facts. |
+| Status | A decision may be "proposed" if the project stakeholders haven't agreed with it yet, or "accepted" once it is agreed. If a later ADR changes or reverses a decision, it may be marked as "deprecated" or "superseded" with a reference to its replacement. |
+| Decision |  This section describes our response to these forces. It is stated in full sentences, with active voice. "We will ..." |
+| Consequences | This section describes the resulting context, after applying the decision. All consequences should be listed here, not just the "positive" ones. A particular decision may have positive, negative, and neutral consequences, but all of them affect the team and project in the future. | 
+
+#### Explain（Chinese）
+
+
+| 标题 | 说明  |
+|-----|-------|
+| 标题 | 这些文件的名称是短名词短语。例如，“ADR 1: Deployment on Ruby on Rails 3.0.10” 或 “ADR 9: LDAP for Multitenant Integration |
+| 上下文 | 这一节描述了当前的技术、政治、社会和项目。这些力量可能处于紧张状态，应该这样说。本节中的语言是价值中立的，只用于描述事实。 |
+| 决策 | 这一节描述我们对这些力量的回应。这是充分的句子，以及积极的声音。 “我们会...” |
+| 状态 | 如果项目利益相关方尚未同意，或者一旦达成一致，则 “决定” 可能被 “提议”。如果以后的 ADR （架构决策记录）更改或撤消决定，则可能会将其标记为 “已弃用” 或 “已取代”，并参考其替换。 |
+| 后果 | 这部分描述了应用决策后产生的上下文。所有的后果应该列在这里，而不仅仅是 “积极的”。一个特定的决策可能会产生积极的、消极的和中性的后果，但是它们都会影响未来的团队和项目。 |
 
 ## Clean Architeture Usecases Records
 
