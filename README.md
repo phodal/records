@@ -7,6 +7,15 @@
 
 ### Explain
 
+|  Title | Description |
+|--------|-------------|
+| Tech Debt ID | Records ID |
+| Date | date |
+| Reporter | reporter |
+| Title | Name to identified tech debt |
+| Description | description detail of tech debt |
+| Alternatives | possible alternative solutions |
+| Rationale  | reason to fix tech debt |
 
 ### usecases
 
