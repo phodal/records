@@ -24,9 +24,29 @@
 | Alternatives | possible alternative solutions |
 | Rationale  | reason to fix tech debt |
 
+
+<caption>Technical debt quadrants</caption>
+
+|   | Reckless | Prudent |
+|---|----------|---------|
+| Deliberate | "We don't have time for design" | "We must ship now and deal with consequences (later)" |
+| Inadvertent | "What's Layering?" | "Now we know how we should have done it" |
+
+from: [https://en.wikipedia.org/wiki/Technical_debt](https://en.wikipedia.org/wiki/Technical_debt)
+
 #### Explain（Chinese）
 
 > 技术负债（英语：Technical debt），又译技术债，也称为设计负债（design debt）、代码负债（code debt），是编程及软件工程中的一个比喻。指开发人员为了加速软件开发，在应该采用最佳方案时进行了妥协，改用了短期内能加速软件开发的方案，从而在未来给自己带来的额外开发负担。
+
+<caption>技术债务的四象限分类</caption>
+
+|   | 鲁莽Reckless | 谨慎Prudent |
+|---|-------------|-------------|
+| 故意Deliberate | 我们没有时间做设计"We don't have time for design" | 我们必须马上交付，后果以后再说"We must ship now and deal with consequences (later)" |
+| 疏忽Inadvertent | 什么是分层（设计）？"What's Layering?" | 现在我们才知道该如何做了"Now we know how we should have done it" |
+
+from: [https://zh.wikipedia.org/wiki/%E6%8A%80%E6%9C%AF%E8%B4%9F%E5%80%BA](https://zh.wikipedia.org/wiki/%E6%8A%80%E6%9C%AF%E8%B4%9F%E5%80%BA)
+
 
 ### usecases
 
@@ -45,7 +65,6 @@
 | Consequences | This section describes the resulting context, after applying the decision. All consequences should be listed here, not just the "positive" ones. A particular decision may have positive, negative, and neutral consequences, but all of them affect the team and project in the future. | 
 
 #### Explain（Chinese）
-
 
 | 标题 | 说明  |
 |-----|-------|
