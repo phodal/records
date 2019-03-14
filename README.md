@@ -5,7 +5,14 @@
 
 ## Tech Debt Records
 
-### Explain
+
+#### Explain
+
+
+### English
+
+> Technical debt (also known as design debt[1] or code debt) is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer.
+
 
 |  Title | Description |
 |--------|-------------|
@@ -16,6 +23,10 @@
 | Description | description detail of tech debt |
 | Alternatives | possible alternative solutions |
 | Rationale  | reason to fix tech debt |
+
+#### Explain（Chinese）
+
+> 技术负债（英语：Technical debt），又译技术债，也称为设计负债（design debt）、代码负债（code debt），是编程及软件工程中的一个比喻。指开发人员为了加速软件开发，在应该采用最佳方案时进行了妥协，改用了短期内能加速软件开发的方案，从而在未来给自己带来的额外开发负担。
 
 ### usecases
 
