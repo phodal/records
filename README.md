@@ -3,13 +3,29 @@
 > A Technology's Records for Tech Lead to research
 
 
+## Tech Vision
+
+### Explain
+
+
+#### Explain（Chinese）
+
+| 关键因素 | 描述 |
+| --- | --- |
+| 对于 |  xxx |
+| 我们的 | xxx |
+| 是一个 | xxx |
+| 它可以 | xxx |
+| 但它不同于 | xxx |
+| 它的优势是 | xxx |
+
 ## Tech Debt Records
 
 
-#### Explain
+### Explain
 
 
-### English
+#### Explain(English)
 
 > Technical debt (also known as design debt[1] or code debt) is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer.
 
